@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597341086 source:c:\users\willc\documents\threadsex\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<conio.h>
+	<string>
+
