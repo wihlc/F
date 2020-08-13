@@ -1,2 +1,2 @@
-# F
-This is just where I'll be putting my projects and games, :)
+# Pokemon style text diplay
+This is a threads exercise pretty much, :)
